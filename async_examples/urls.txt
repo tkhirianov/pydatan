@@ -1,0 +1,17 @@
+https://yandex.ru yandex.html
+https://google.com google.html
+https://vk.com vk.html
+https://photos.google.com pgoogle.html
+https://image.google.com igoogle.html
+https://ruscorpora.ru ruscorpora.html
+https://translate.google.com transgoogle.html
+https://www.gstatic.com gstatic.html
+https://play.google.com play.google.html
+https://docs.google.com docs.google.html
+https://en.wikipedia.org en.wikipedia.html
+https://maps.google.com maps.google.html
+https://youtu.be youtu.html
+https://drive.google.com drive.google.html
+https://accounts.google.com accounts.google.html
+https://sites.google.com sites.google.html
+https://disk.yandex.ru ydisk.html
