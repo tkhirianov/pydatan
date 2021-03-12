@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+while True:
+    s = input()
+    print(s*2)
