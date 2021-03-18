@@ -1,0 +1,10 @@
+https://yandex.ru yandex.html
+https://google.com google.html
+https://photos.google.com pgoogle.html
+https://image.google.com igoogle.html
+https://play.google.com play.google.html
+https://docs.google.com docs.google.html
+https://maps.google.com maps.google.html
+https://youtu.be youtu.html
+https://drive.google.com drive.google.html
+https://disk.yandex.ru ydisk.html
